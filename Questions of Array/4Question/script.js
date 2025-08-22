@@ -1,0 +1,3 @@
+//insert "red" and " blue" at index 1 in the array...
+let colors = ["pink", "green"];
+colors.splice(1,0,"red","blue");
