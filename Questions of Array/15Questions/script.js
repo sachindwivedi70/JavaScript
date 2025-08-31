@@ -1,0 +1,3 @@
+//Add "India" to the start of this array using spread...
+let countries = [ "U.K","USA"];
+countries =["india", ...countries];
