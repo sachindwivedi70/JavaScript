@@ -1,0 +1,2 @@
+//what does setAttribute() do?//
+document.querySelector("img").setAttribute("src","https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-169994-674010.jpg&fm=jpg")
